@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("hello world\n");
+	printf("PIDR\n");
 	return 0;
 }
